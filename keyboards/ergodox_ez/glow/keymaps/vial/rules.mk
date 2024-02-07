@@ -1,0 +1,10 @@
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+VIALRGB_ENABLE = yes
+KEY_OVERRIDE_ENABLE = no
+NKRO_ENABLE      = yes           # Enable N-Key Rollover
+MOUSEKEY_ENABLE  = no
+RGBLIGHT_ENABLE = no
+RGB_MATRIX_ENABLE = yes
+CAPS_WORD_ENABLE = no
+LTO_ENABLE = yes
